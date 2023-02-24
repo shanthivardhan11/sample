@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 100,
+      "name": "milk",
+      "qty": 150,
+      "price": 80
+    },
+    {
+      "id": 200,
+      "name": "Silk",
+      "qty": 500,
+      "price": 120
+    },
+    {
+      "id": 300,
+      "name": "choco",
+      "qty": 1000,
+      "price": 30
+    }
+  ]
+  
+}
